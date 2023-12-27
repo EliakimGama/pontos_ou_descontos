@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pontos_ou_descontos/static/css/main.3d4cb127.css",
+    "main.js": "/pontos_ou_descontos/static/js/main.b95c8336.js",
+    "static/js/787.5ff7ffc4.chunk.js": "/pontos_ou_descontos/static/js/787.5ff7ffc4.chunk.js",
+    "static/media/logo.png": "/pontos_ou_descontos/static/media/logo.29aeb28c40d102154fe5.png",
+    "index.html": "/pontos_ou_descontos/index.html",
+    "main.3d4cb127.css.map": "/pontos_ou_descontos/static/css/main.3d4cb127.css.map",
+    "main.b95c8336.js.map": "/pontos_ou_descontos/static/js/main.b95c8336.js.map",
+    "787.5ff7ffc4.chunk.js.map": "/pontos_ou_descontos/static/js/787.5ff7ffc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d4cb127.css",
+    "static/js/main.b95c8336.js"
+  ]
+}
