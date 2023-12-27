@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f0f0;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+p {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+
+input[type="number"] {
+ 
+  font-size: 24px;
+  margin-left: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+button {
+  font-size: 20px;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.advantage {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.calculator {
+  background-color: #fff;
+  color: #333; /* Cor do texto para a div calculator */
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.bonus-transfer {
+  background-color: #fff;
+  color: #333; /* Cor do texto para a div bonus-transfer */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+footer a {
+  margin: 0 10px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+nav img {
+  height: 60px; /* Ajuste para o tamanho desejado */
+  margin-right: auto;
+}
+
+nav a {
+  margin-left: 20px;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+
+.App {
+  background-color: #add8e6; /* Azul claro */
+  /* Outras regras CSS... */
+}
+
+body {
+  background-color: #add8e6; /* Azul claro */
+}
+
+.total-points {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+}
